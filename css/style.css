@@ -168,5 +168,10 @@ justify-content: center;
 }
   }
 
+  @media (min-width:768) and (max-width:950px){
+.logo,.main,.quotes{
+  padding-left: 25px;
+}    
+  }
 
 
